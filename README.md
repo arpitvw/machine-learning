@@ -1,20 +1,11 @@
 # machine-learning
 coding practice
-NOTE: its just a raw code for practice and understanding the concept
-As of now NN3 is latest code , 
-dependency: Numpy,Matplotlib,Pandas
-architecture : 
-hidden layer: 4
-hidden unit in each layer : 
-    first layer  : 15
-    second layer : 12
-    third layer  : 10
-    fourth layer : 7
-    output layer : 7 (softmax)
-    
-output layter: 1 (softmax)
+NOTE: this branch holds only raw code for practice and understanding the concepts
 
-Neural network is for multinomial ouput problem ,i.e  label is distirbuted in 7 categories 
+NN4:-> Neural network basics to understand the depth of concepts
+Software/library used : Python= 3.6 , Numpy , Pandas ,matplotlib
 
-NOTE: further enhancement planned: optimizer
+Wine quality prediction : prediction of wine quality based on the given dataset (Basically, explanatory data analysis )
+software/library used: Python=3.6 , numpy, pandas, matplotlib, seaborn 
+
 
